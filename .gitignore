@@ -1,0 +1,12 @@
+# Ignore waveform and Vivado-generated files
+*.vcd
+*.wdb
+*.jou
+*.log
+*.str
+*.pb
+*.cache/
+*.runs/
+*.Xil/
+*.sim/
+*.hw/
